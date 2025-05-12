@@ -33,7 +33,7 @@ public class ScientificCalculator extends JFrame {
         TOOLTIPS.put("asin", "Arcoseno: calcula asin(x) y devuelve grados");
         TOOLTIPS.put("acos", "Arcocoseno: calcula acos(x) y devuelve grados");
         TOOLTIPS.put("atan", "Arcotangente: calcula atan(x) y devuelve grados");
-        TOOLTIPS.put("sqrt", "Raíz cuadrada: calcula √x");
+        TOOLTIPS.put("√", "Raíz cuadrada: calcula √x");
         TOOLTIPS.put("+", "Suma");
         TOOLTIPS.put("-", "Resta");
         TOOLTIPS.put("*", "Multiplicación");
@@ -92,7 +92,7 @@ public class ScientificCalculator extends JFrame {
 
         // Orden de los botones en la interfaz
         String[] buttons = {
-            "sin", "cos", "tan", "sqrt", "←",
+            "sin", "cos", "tan", "√", "←",
             "asin", "acos", "atan", "^", "%",
             "7", "8", "9", "/", "(",
             "4", "5", "6", "*", ")",
