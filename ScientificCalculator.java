@@ -62,7 +62,7 @@ public class ScientificCalculator extends JFrame {
     // Constructor de la calculadora
     public ScientificCalculator() {
         setTitle("CalculaYDora CientRífica");
-        setSize(500, 600);  // Tamaño aumentado para mejor visualización
+        setSize(800, 600);  
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setLocationRelativeTo(null);  // Centrar en pantalla
         initUI();  // Inicializar interfaz de usuario
