@@ -6,6 +6,8 @@
 
 Una calculadora científica con interfaz gráfica desarrollada en Java Swing que soporta operaciones avanzadas y funciones matemáticas.
 
+![calcula-y-dora](https://github.com/user-attachments/assets/0f448a38-cff9-4a77-bdd2-dde2f2ea585e)
+
 ## Características Principales
 
 - 🧮 **Operaciones básicas**:
@@ -31,10 +33,6 @@ Una calculadora científica con interfaz gráfica desarrollada en Java Swing que
   - Validación de paréntesis balanceados
   - Prevención de errores comunes (división por cero, puntos decimales múltiples)
   - Soporte para operadores de diferente precedencia
-
-## Captura de Pantalla
-
-![Calculadora Científica](screenshot.png) <!-- Puedes agregar una captura real aquí -->
 
 ## Cómo Usar
 
